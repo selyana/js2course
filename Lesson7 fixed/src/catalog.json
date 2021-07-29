@@ -1,0 +1,9 @@
+[
+  { "id": 1, "productName": "Мышка", "price": 100 },
+  { "id": 2, "productName": "Клавиатура", "price": 200 },
+  { "id": 3, "productName": "Колонки", "price": 130 },
+  { "id": 4, "productName": "Наушники", "price": 150 },
+  { "id": 5, "productName": "Ноутбук", "price": 400 },
+  { "id": 6, "productName": "Коврик", "price": 150 },
+  { "id": 7, "productName": "Кресло", "price": 160 }
+]
